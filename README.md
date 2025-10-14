@@ -75,6 +75,6 @@ git push origin main
 ```
 ## 👨‍🏫 Autor
 
-Proyecto desarrollado aplicando conceptos de Big Data, Python y bases de datos NoSQL.
-Josue Saldaña Fustamante
-Fecha: 12.10.2025
+- Proyecto desarrollado aplicando conceptos de Big Data, Python y bases de datos NoSQL.
+- Josue Saldaña Fustamante
+- Fecha: 14.10.2025
